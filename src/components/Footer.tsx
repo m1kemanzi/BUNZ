@@ -32,7 +32,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <FaPhone className="mt-1 mr-3 text-secondary" />
-                <span>+250 788 123 456</span>
+                <span>+250 788 902 591</span>
               </li>
             </ul>
           </div>
@@ -46,7 +46,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <FaPhone className="mt-1 mr-3 text-secondary" />
-                <span>+250 788 789 012</span>
+                <span>+250 788 902 591</span>
               </li>
             </ul>
           </div>

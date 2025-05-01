@@ -25,7 +25,7 @@ const Location = () => {
                 <li className="flex items-start">
                   <FaPhone className="mt-1 mr-3 text-primary" size={20} />
                   <div>
-                    <p className="font-medium">+250 788 123 456</p>
+                    <p className="font-medium">+250 788 902 591</p>
                   </div>
                 </li>
               </ul>
@@ -44,7 +44,7 @@ const Location = () => {
                 <li className="flex items-start">
                   <FaPhone className="mt-1 mr-3 text-primary" size={20} />
                   <div>
-                    <p className="font-medium">+250 788 789 012</p>
+                    <p className="font-medium">+250 788 902 591</p>
                   </div>
                 </li>
               </ul>

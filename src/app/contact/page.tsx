@@ -95,7 +95,7 @@ export default function Contact() {
                       <FaPhone className="text-primary text-xl mt-1 mr-4" />
                       <div>
                         <h3 className="font-bold mb-1">Phone</h3>
-                        <p>+250 788 123 456</p>
+                        <p>+250 788 902 591</p>
                       </div>
                     </li>
                     <li className="flex">

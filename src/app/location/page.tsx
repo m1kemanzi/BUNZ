@@ -89,7 +89,7 @@ export default function LocationPage() {
                       <FaPhone className="text-primary mr-2" />
                       Contact
                     </h3>
-                    <p className="mb-4">Phone: +250 788 123 456</p>
+                    <p className="mb-4">Phone:  +250 788 902 591</p>
                     <p className="mb-4">Email: info@bunzrwanda.com</p>
                     
                     <h3 className="text-xl font-bold mb-4 mt-8">Amenities</h3>
@@ -192,7 +192,7 @@ export default function LocationPage() {
                       <FaPhone className="text-primary mr-2" />
                       Contact
                     </h3>
-                    <p className="mb-4">Phone: +250 788 789 012</p>
+                    <p className="mb-4">Phone: +250 788 902 591</p>
                     <p className="mb-4">Email: info@bunzrwanda.com</p>
                     
                     <h3 className="text-xl font-bold mb-4 mt-8">Amenities</h3>
